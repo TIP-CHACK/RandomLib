@@ -1,5 +1,5 @@
 ﻿  Rand.cpp
-C:\Users\User\source\repos\RandomLib\Rand.cpp(11,79): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
+C:\Users\User\source\repos\RandomLib\Rand.cpp(15,79): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
           with
           [
               _Rep=__int64

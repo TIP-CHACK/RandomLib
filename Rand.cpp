@@ -1,10 +1,14 @@
 #include "iostream"
 #include <chrono>
 #include "RandomLib.h"
+#include <string>
 using namespace std;
 using namespace std::chrono;
 	int R = 0;
 int Rand(int Min,int Max) {
+	if (Min = Max) {
+		return 0;
+	}
 	int c;
 	int m;
 	int x;
